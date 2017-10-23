@@ -1,41 +1,61 @@
 
-
-# 讲义题目
+# Self introduction
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 杨政基 (1700011817@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/caviare2017
 
 ---
 
-## 第一部分
+## self introduction
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+### <font color="orangered">1. basic information
+
+### 2. hobby&speciality
+
+#### &nbsp; &nbsp; 2.1
+#### &nbsp; &nbsp; 2.2
+#### &nbsp; &nbsp; 2.3
+
+### 3. appendix
+
+---
+## basic information
+
+```
+Name:Yang Zhengji
+From:College of Chemistry and Molecular Engineering(CCME)
+Gender:curious、enthusiastic……
+More detailed information:
+    Umm,it seems that there's no need to duplicate above-motions.So let's talk
+about something else.  ^0^(
+    As for this lesson,I haven't used Pathon before.And in fact, I have never 
+learnt programming before.But I think it as a quite intresting and challenging 
+thing, in which can I learn a lot and have much fun.What's more,progamming 
+techniques is developing into a basic skill in many areas,especially in base 
+disciplines.It will be of great importance!
+    And the last paragraph is about why I don't talk about some other aspects of
+myself.Very clearly(滑稽滑稽),I have "hobby&speciality"to be my section 2.Or else
+I can't find proper content to fill in it.    
+   
 ```
 
 ---
+## hobby&specility
+### 2.1 Tennis
+   <img src="" width=200 style="margin: 0px 80px">
+   
+---
+
+### 2.2 Violin
+   <img src="" width=200 style="margin: 0px 80px">
+   
+---   
+## Appendix
+   
 
 ## 插图
 
@@ -45,18 +65,5 @@ int main()
 
 ---
 
-## `\(\LaTeX{}\)` in remark
 
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
-
----
-
-class: center, middle
-
-# 谢谢
+# Thank you

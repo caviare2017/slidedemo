@@ -22,7 +22,7 @@
 ### 3. appendix
 
 ---
-## basic information
+## 1.basic information
 
 ```
 Name:Yang Zhengji
@@ -43,7 +43,7 @@ I can't find proper content to fill in it.
 ```
 
 ---
-## hobby&specility
+## 2.hobby&specility
 ### 2.1 Tennis
 #### Tennis is pretty cool, and it's a ideal method to practice.
 #### I love it a lot.
@@ -53,9 +53,10 @@ I can't find proper content to fill in it.
 
 ### 2.2 Violin
 #### As we all know, music can free us from tiredness.
-
+```
+```
 ---   
-## Appendix
+## 3.Appendix
 
 
 

@@ -16,9 +16,8 @@
 
 ### 2. hobby&speciality
 
-#### &nbsp; &nbsp; 2.1
-#### &nbsp; &nbsp; 2.2
-#### &nbsp; &nbsp; 2.3
+#### &nbsp; &nbsp; 2.1 Tennis
+#### &nbsp; &nbsp; 2.2 Violin
 
 ### 3. appendix
 
@@ -38,7 +37,7 @@ thing, in which can I learn a lot and have much fun.What's more,progamming
 techniques is developing into a basic skill in many areas,especially in base 
 disciplines.It will be of great importance!
     And the last paragraph is about why I don't talk about some other aspects of
-myself.Very clearly(滑稽滑稽),I have "hobby&speciality"to be my section 2.Or else
+myself.Very clearly,I have "hobby&speciality"to be my section 2.Or else
 I can't find proper content to fill in it.    
    
 ```
@@ -46,24 +45,19 @@ I can't find proper content to fill in it.
 ---
 ## hobby&specility
 ### 2.1 Tennis
-   <img src="" width=200 style="margin: 0px 80px">
-   
----
+#### Tennis is pretty cool, and it's a ideal method to practice.
+#### I love it a lot.
+
+
+
 
 ### 2.2 Violin
-   <img src="" width=200 style="margin: 0px 80px">
-   
+#### As we all know, music can free us from tiredness.
+
 ---   
 ## Appendix
-   
 
-## 插图
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
 
 
 # Thank you
